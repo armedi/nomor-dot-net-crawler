@@ -1,8 +1,5 @@
-# Crawlee + PuppeteerCrawler + TypeScript project
+# nomor-dot-net-crawler
 
-This template is a production ready boilerplate for developing with `PuppeteerCrawler`. Use this to bootstrap your projects using the most up-to-date code.
+Crawls [nomor.net](https://www.nomor.net/) pages to generate JSON files containing lists of provinces, cities, districts, and subdistricts of Indonesia.
 
-If you're looking for examples or want to learn more visit:
-
-- [Documentation](https://crawlee.dev/api/puppeteer-crawler/class/PuppeteerCrawler)
-- [Examples](https://crawlee.dev/docs/examples/puppeteer-crawler)
+The data includes zip codes and administrative area codes.
