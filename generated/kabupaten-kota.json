@@ -1,0 +1,2442 @@
+[
+  {
+    "kode_wilayah": "11.01",
+    "kabupaten_kota": "Aceh Selatan",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.02",
+    "kabupaten_kota": "Aceh Tenggara",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.03",
+    "kabupaten_kota": "Aceh Timur",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.04",
+    "kabupaten_kota": "Aceh Tengah",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.05",
+    "kabupaten_kota": "Aceh Barat",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.06",
+    "kabupaten_kota": "Aceh Besar",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.07",
+    "kabupaten_kota": "Pidie",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.08",
+    "kabupaten_kota": "Aceh Utara",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.09",
+    "kabupaten_kota": "Simeulue",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.10",
+    "kabupaten_kota": "Aceh Singkil",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.11",
+    "kabupaten_kota": "Bireuen",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.12",
+    "kabupaten_kota": "Aceh Barat Daya",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.13",
+    "kabupaten_kota": "Gayo Lues",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.14",
+    "kabupaten_kota": "Aceh Jaya",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.15",
+    "kabupaten_kota": "Nagan Raya",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.16",
+    "kabupaten_kota": "Aceh Tamiang",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.17",
+    "kabupaten_kota": "Bener Meriah",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.18",
+    "kabupaten_kota": "Pidie Jaya",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.71",
+    "kabupaten_kota": "Banda Aceh",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.72",
+    "kabupaten_kota": "Sabang",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.73",
+    "kabupaten_kota": "Lhokseumawe",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.74",
+    "kabupaten_kota": "Langsa",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "11.75",
+    "kabupaten_kota": "Subulussalam",
+    "provinsi": "Aceh (NAD)"
+  },
+  {
+    "kode_wilayah": "12.01",
+    "kabupaten_kota": "Tapanuli Tengah",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.02",
+    "kabupaten_kota": "Tapanuli Utara",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.03",
+    "kabupaten_kota": "Tapanuli Selatan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.04",
+    "kabupaten_kota": "Nias",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.05",
+    "kabupaten_kota": "Langkat",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.06",
+    "kabupaten_kota": "Karo",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.07",
+    "kabupaten_kota": "Deli Serdang",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.08",
+    "kabupaten_kota": "Simalungun",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.09",
+    "kabupaten_kota": "Asahan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.10",
+    "kabupaten_kota": "Labuhanbatu",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.11",
+    "kabupaten_kota": "Dairi",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.12",
+    "kabupaten_kota": "Toba",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.13",
+    "kabupaten_kota": "Mandailing Natal",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.14",
+    "kabupaten_kota": "Nias Selatan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.15",
+    "kabupaten_kota": "Pakpak Bharat",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.16",
+    "kabupaten_kota": "Humbang Hasundutan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.17",
+    "kabupaten_kota": "Samosir",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.18",
+    "kabupaten_kota": "Serdang Bedagai",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.19",
+    "kabupaten_kota": "Batu Bara",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.20",
+    "kabupaten_kota": "Padang Lawas Utara",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.21",
+    "kabupaten_kota": "Padang Lawas",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.22",
+    "kabupaten_kota": "Labuhanbatu Selatan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.23",
+    "kabupaten_kota": "Labuhanbatu Utara",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.24",
+    "kabupaten_kota": "Nias Utara",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.25",
+    "kabupaten_kota": "Nias Barat",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.71",
+    "kabupaten_kota": "Medan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.72",
+    "kabupaten_kota": "Pematangsiantar",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.73",
+    "kabupaten_kota": "Sibolga",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.74",
+    "kabupaten_kota": "Tanjung Balai",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.75",
+    "kabupaten_kota": "Binjai",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.76",
+    "kabupaten_kota": "Tebing Tinggi",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.77",
+    "kabupaten_kota": "Padangsidimpuan",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "12.78",
+    "kabupaten_kota": "Gunungsitoli",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "kode_wilayah": "13.01",
+    "kabupaten_kota": "Pesisir Selatan",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.02",
+    "kabupaten_kota": "Solok",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.03",
+    "kabupaten_kota": "Sijunjung",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.04",
+    "kabupaten_kota": "Tanah Datar",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.05",
+    "kabupaten_kota": "Padang Pariaman",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.06",
+    "kabupaten_kota": "Agam",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.07",
+    "kabupaten_kota": "Lima Puluh Kota",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.08",
+    "kabupaten_kota": "Pasaman",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.09",
+    "kabupaten_kota": "Kepulauan Mentawai",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.10",
+    "kabupaten_kota": "Dharmasraya",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.11",
+    "kabupaten_kota": "Solok Selatan",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.12",
+    "kabupaten_kota": "Pasaman Barat",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.71",
+    "kabupaten_kota": "Padang",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.73",
+    "kabupaten_kota": "Sawahlunto",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.74",
+    "kabupaten_kota": "Padang Panjang",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.75",
+    "kabupaten_kota": "Bukittinggi",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.76",
+    "kabupaten_kota": "Payakumbuh",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "13.77",
+    "kabupaten_kota": "Pariaman",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "kode_wilayah": "14.01",
+    "kabupaten_kota": "Kampar",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.02",
+    "kabupaten_kota": "Indragiri Hulu",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.03",
+    "kabupaten_kota": "Bengkalis",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.04",
+    "kabupaten_kota": "Indragiri Hilir",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.05",
+    "kabupaten_kota": "Pelalawan",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.06",
+    "kabupaten_kota": "Rokan Hulu",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.07",
+    "kabupaten_kota": "Rokan Hilir",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.08",
+    "kabupaten_kota": "Siak",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.09",
+    "kabupaten_kota": "Kuantan Singingi",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.10",
+    "kabupaten_kota": "Kepulauan Meranti",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.71",
+    "kabupaten_kota": "Pekanbaru",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "14.72",
+    "kabupaten_kota": "Dumai",
+    "provinsi": "Riau"
+  },
+  {
+    "kode_wilayah": "15.01",
+    "kabupaten_kota": "Kerinci",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.02",
+    "kabupaten_kota": "Merangin",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.03",
+    "kabupaten_kota": "Sarolangun",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.04",
+    "kabupaten_kota": "Batanghari",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.05",
+    "kabupaten_kota": "Muaro Jambi",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.06",
+    "kabupaten_kota": "Tanjung Jabung Barat",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.07",
+    "kabupaten_kota": "Tanjung Jabung Timur",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.08",
+    "kabupaten_kota": "Bungo",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.09",
+    "kabupaten_kota": "Tebo",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.71",
+    "kabupaten_kota": "Jambi",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "15.72",
+    "kabupaten_kota": "Sungai Penuh",
+    "provinsi": "Jambi"
+  },
+  {
+    "kode_wilayah": "16.01",
+    "kabupaten_kota": "Ogan Komering Ulu",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.02",
+    "kabupaten_kota": "Ogan Komering Ilir",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.03",
+    "kabupaten_kota": "Muara Enim",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.04",
+    "kabupaten_kota": "Lahat",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.05",
+    "kabupaten_kota": "Musi Rawas",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.06",
+    "kabupaten_kota": "Musi Banyuasin",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.07",
+    "kabupaten_kota": "Banyuasin",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.08",
+    "kabupaten_kota": "Ogan Komering Ulu Timur",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.09",
+    "kabupaten_kota": "Ogan Komering Ulu Selatan",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.10",
+    "kabupaten_kota": "Ogan Ilir",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.11",
+    "kabupaten_kota": "Empat Lawang",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.12",
+    "kabupaten_kota": "Penukal Abab Lematang Ilir",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.13",
+    "kabupaten_kota": "Musi Rawas Utara",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.71",
+    "kabupaten_kota": "Palembang",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.72",
+    "kabupaten_kota": "Pagar Alam",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.73",
+    "kabupaten_kota": "Lubuk Linggau",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "16.74",
+    "kabupaten_kota": "Prabumulih",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "kode_wilayah": "17.01",
+    "kabupaten_kota": "Bengkulu Selatan",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.02",
+    "kabupaten_kota": "Rejang Lebong",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.03",
+    "kabupaten_kota": "Bengkulu Utara",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.04",
+    "kabupaten_kota": "Kaur",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.05",
+    "kabupaten_kota": "Seluma",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.06",
+    "kabupaten_kota": "Muko Muko",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.07",
+    "kabupaten_kota": "Lebong",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.08",
+    "kabupaten_kota": "Kepahiang",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.09",
+    "kabupaten_kota": "Bengkulu Tengah",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "17.71",
+    "kabupaten_kota": "Bengkulu",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "kode_wilayah": "18.01",
+    "kabupaten_kota": "Lampung Selatan",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.02",
+    "kabupaten_kota": "Lampung Tengah",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.03",
+    "kabupaten_kota": "Lampung Utara",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.04",
+    "kabupaten_kota": "Lampung Barat",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.05",
+    "kabupaten_kota": "Tulang Bawang",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.06",
+    "kabupaten_kota": "Tanggamus",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.07",
+    "kabupaten_kota": "Lampung Timur",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.08",
+    "kabupaten_kota": "Way Kanan",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.09",
+    "kabupaten_kota": "Pesawaran",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.10",
+    "kabupaten_kota": "Pringsewu",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.11",
+    "kabupaten_kota": "Mesuji",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.12",
+    "kabupaten_kota": "Tulang Bawang Barat",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.13",
+    "kabupaten_kota": "Pesisir Barat",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.71",
+    "kabupaten_kota": "Bandar Lampung",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "18.72",
+    "kabupaten_kota": "Metro",
+    "provinsi": "Lampung"
+  },
+  {
+    "kode_wilayah": "19.01",
+    "kabupaten_kota": "Bangka",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "19.02",
+    "kabupaten_kota": "Belitung",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "19.03",
+    "kabupaten_kota": "Bangka Selatan",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "19.04",
+    "kabupaten_kota": "Bangka Tengah",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "19.05",
+    "kabupaten_kota": "Bangka Barat",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "19.06",
+    "kabupaten_kota": "Belitung Timur",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "19.71",
+    "kabupaten_kota": "Pangkal Pinang",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "kode_wilayah": "21.01",
+    "kabupaten_kota": "Bintan",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "21.02",
+    "kabupaten_kota": "Karimun",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "21.03",
+    "kabupaten_kota": "Natuna",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "21.04",
+    "kabupaten_kota": "Lingga",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "21.05",
+    "kabupaten_kota": "Kepulauan Anambas",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "21.71",
+    "kabupaten_kota": "Batam",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "21.72",
+    "kabupaten_kota": "Tanjung Pinang",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "kode_wilayah": "31.01",
+    "kabupaten_kota": "Kepulauan Seribu",
+    "provinsi": "DKI Jakarta"
+  },
+  {
+    "kode_wilayah": "31.71",
+    "kabupaten_kota": "Jakarta Pusat",
+    "provinsi": "DKI Jakarta"
+  },
+  {
+    "kode_wilayah": "31.72",
+    "kabupaten_kota": "Jakarta Utara",
+    "provinsi": "DKI Jakarta"
+  },
+  {
+    "kode_wilayah": "31.73",
+    "kabupaten_kota": "Jakarta Barat",
+    "provinsi": "DKI Jakarta"
+  },
+  {
+    "kode_wilayah": "31.74",
+    "kabupaten_kota": "Jakarta Selatan",
+    "provinsi": "DKI Jakarta"
+  },
+  {
+    "kode_wilayah": "31.75",
+    "kabupaten_kota": "Jakarta Timur",
+    "provinsi": "DKI Jakarta"
+  },
+  {
+    "kode_wilayah": "32.01",
+    "kabupaten_kota": "Bogor",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.02",
+    "kabupaten_kota": "Sukabumi",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.03",
+    "kabupaten_kota": "Cianjur",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.04",
+    "kabupaten_kota": "Bandung",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.05",
+    "kabupaten_kota": "Garut",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.06",
+    "kabupaten_kota": "Tasikmalaya",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.07",
+    "kabupaten_kota": "Ciamis",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.08",
+    "kabupaten_kota": "Kuningan",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.09",
+    "kabupaten_kota": "Cirebon",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.10",
+    "kabupaten_kota": "Majalengka",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.11",
+    "kabupaten_kota": "Sumedang",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.12",
+    "kabupaten_kota": "Indramayu",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.13",
+    "kabupaten_kota": "Subang",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.14",
+    "kabupaten_kota": "Purwakarta",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.15",
+    "kabupaten_kota": "Karawang",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.16",
+    "kabupaten_kota": "Bekasi",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.17",
+    "kabupaten_kota": "Bandung Barat",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.18",
+    "kabupaten_kota": "Pangandaran",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.76",
+    "kabupaten_kota": "Depok",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.77",
+    "kabupaten_kota": "Cimahi",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "32.79",
+    "kabupaten_kota": "Banjar",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "kode_wilayah": "33.01",
+    "kabupaten_kota": "Cilacap",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.02",
+    "kabupaten_kota": "Banyumas",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.03",
+    "kabupaten_kota": "Purbalingga",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.04",
+    "kabupaten_kota": "Banjarnegara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.05",
+    "kabupaten_kota": "Kebumen",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.06",
+    "kabupaten_kota": "Purworejo",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.07",
+    "kabupaten_kota": "Wonosobo",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.08",
+    "kabupaten_kota": "Magelang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.09",
+    "kabupaten_kota": "Boyolali",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.10",
+    "kabupaten_kota": "Klaten",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.11",
+    "kabupaten_kota": "Sukoharjo",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.12",
+    "kabupaten_kota": "Wonogiri",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.13",
+    "kabupaten_kota": "Karanganyar",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.14",
+    "kabupaten_kota": "Sragen",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.15",
+    "kabupaten_kota": "Grobogan",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.16",
+    "kabupaten_kota": "Blora",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.17",
+    "kabupaten_kota": "Rembang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.18",
+    "kabupaten_kota": "Pati",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.19",
+    "kabupaten_kota": "Kudus",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.20",
+    "kabupaten_kota": "Jepara",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.21",
+    "kabupaten_kota": "Demak",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.22",
+    "kabupaten_kota": "Semarang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.23",
+    "kabupaten_kota": "Temanggung",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.24",
+    "kabupaten_kota": "Kendal",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.25",
+    "kabupaten_kota": "Batang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.26",
+    "kabupaten_kota": "Pekalongan",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.27",
+    "kabupaten_kota": "Pemalang",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.28",
+    "kabupaten_kota": "Tegal",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.29",
+    "kabupaten_kota": "Brebes",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.72",
+    "kabupaten_kota": "Surakarta",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "33.73",
+    "kabupaten_kota": "Salatiga",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "kode_wilayah": "34.01",
+    "kabupaten_kota": "Kulon Progo",
+    "provinsi": "DI Yogyakarta"
+  },
+  {
+    "kode_wilayah": "34.02",
+    "kabupaten_kota": "Bantul",
+    "provinsi": "DI Yogyakarta"
+  },
+  {
+    "kode_wilayah": "34.03",
+    "kabupaten_kota": "Gunungkidul",
+    "provinsi": "DI Yogyakarta"
+  },
+  {
+    "kode_wilayah": "34.04",
+    "kabupaten_kota": "Sleman",
+    "provinsi": "DI Yogyakarta"
+  },
+  {
+    "kode_wilayah": "34.71",
+    "kabupaten_kota": "Yogyakarta",
+    "provinsi": "DI Yogyakarta"
+  },
+  {
+    "kode_wilayah": "35.01",
+    "kabupaten_kota": "Pacitan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.02",
+    "kabupaten_kota": "Ponorogo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.03",
+    "kabupaten_kota": "Trenggalek",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.04",
+    "kabupaten_kota": "Tulungagung",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.05",
+    "kabupaten_kota": "Blitar",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.06",
+    "kabupaten_kota": "Kediri",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.07",
+    "kabupaten_kota": "Malang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.08",
+    "kabupaten_kota": "Lumajang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.09",
+    "kabupaten_kota": "Jember",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.10",
+    "kabupaten_kota": "Banyuwangi",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.11",
+    "kabupaten_kota": "Bondowoso",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.12",
+    "kabupaten_kota": "Situbondo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.13",
+    "kabupaten_kota": "Probolinggo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.14",
+    "kabupaten_kota": "Pasuruan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.15",
+    "kabupaten_kota": "Sidoarjo",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.16",
+    "kabupaten_kota": "Mojokerto",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.17",
+    "kabupaten_kota": "Jombang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.18",
+    "kabupaten_kota": "Nganjuk",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.19",
+    "kabupaten_kota": "Madiun",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.20",
+    "kabupaten_kota": "Magetan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.21",
+    "kabupaten_kota": "Ngawi",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.22",
+    "kabupaten_kota": "Bojonegoro",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.23",
+    "kabupaten_kota": "Tuban",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.24",
+    "kabupaten_kota": "Lamongan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.25",
+    "kabupaten_kota": "Gresik",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.26",
+    "kabupaten_kota": "Bangkalan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.27",
+    "kabupaten_kota": "Sampang",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.28",
+    "kabupaten_kota": "Pamekasan",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.29",
+    "kabupaten_kota": "Sumenep",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.78",
+    "kabupaten_kota": "Surabaya",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "35.79",
+    "kabupaten_kota": "Batu",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "kode_wilayah": "36.01",
+    "kabupaten_kota": "Pandeglang",
+    "provinsi": "Banten"
+  },
+  {
+    "kode_wilayah": "36.02",
+    "kabupaten_kota": "Lebak",
+    "provinsi": "Banten"
+  },
+  {
+    "kode_wilayah": "36.03",
+    "kabupaten_kota": "Tangerang",
+    "provinsi": "Banten"
+  },
+  {
+    "kode_wilayah": "36.04",
+    "kabupaten_kota": "Serang",
+    "provinsi": "Banten"
+  },
+  {
+    "kode_wilayah": "36.72",
+    "kabupaten_kota": "Cilegon",
+    "provinsi": "Banten"
+  },
+  {
+    "kode_wilayah": "36.74",
+    "kabupaten_kota": "Tangerang Selatan",
+    "provinsi": "Banten"
+  },
+  {
+    "kode_wilayah": "51.01",
+    "kabupaten_kota": "Jembrana",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.02",
+    "kabupaten_kota": "Tabanan",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.03",
+    "kabupaten_kota": "Badung",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.04",
+    "kabupaten_kota": "Gianyar",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.05",
+    "kabupaten_kota": "Klungkung",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.06",
+    "kabupaten_kota": "Bangli",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.07",
+    "kabupaten_kota": "Karangasem",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.08",
+    "kabupaten_kota": "Buleleng",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "51.71",
+    "kabupaten_kota": "Denpasar",
+    "provinsi": "Bali"
+  },
+  {
+    "kode_wilayah": "52.01",
+    "kabupaten_kota": "Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.02",
+    "kabupaten_kota": "Lombok Tengah",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.03",
+    "kabupaten_kota": "Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.04",
+    "kabupaten_kota": "Sumbawa",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.05",
+    "kabupaten_kota": "Dompu",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.06",
+    "kabupaten_kota": "Bima",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.07",
+    "kabupaten_kota": "Sumbawa Barat",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.08",
+    "kabupaten_kota": "Lombok Utara",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "52.71",
+    "kabupaten_kota": "Mataram",
+    "provinsi": "Nusa Tenggara Barat (NTB)"
+  },
+  {
+    "kode_wilayah": "53.01",
+    "kabupaten_kota": "Kupang",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.02",
+    "kabupaten_kota": "Timor Tengah Selatan",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.03",
+    "kabupaten_kota": "Timor Tengah Utara",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.04",
+    "kabupaten_kota": "Belu",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.05",
+    "kabupaten_kota": "Alor",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.06",
+    "kabupaten_kota": "Flores Timur",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.07",
+    "kabupaten_kota": "Sikka",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.08",
+    "kabupaten_kota": "Ende",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.09",
+    "kabupaten_kota": "Ngada",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.10",
+    "kabupaten_kota": "Manggarai",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.11",
+    "kabupaten_kota": "Sumba Timur",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.12",
+    "kabupaten_kota": "Sumba Barat",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.13",
+    "kabupaten_kota": "Lembata",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.14",
+    "kabupaten_kota": "Rote Ndao",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.15",
+    "kabupaten_kota": "Manggarai Barat",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.16",
+    "kabupaten_kota": "Nagekeo",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.17",
+    "kabupaten_kota": "Sumba Tengah",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.18",
+    "kabupaten_kota": "Sumba Barat Daya",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.19",
+    "kabupaten_kota": "Manggarai Timur",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.20",
+    "kabupaten_kota": "Sabu Raijua",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "53.21",
+    "kabupaten_kota": "Malaka",
+    "provinsi": "Nusa Tenggara Timur (NTT)"
+  },
+  {
+    "kode_wilayah": "61.01",
+    "kabupaten_kota": "Sambas",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.02",
+    "kabupaten_kota": "Mempawah",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.03",
+    "kabupaten_kota": "Sanggau",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.04",
+    "kabupaten_kota": "Ketapang",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.05",
+    "kabupaten_kota": "Sintang",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.06",
+    "kabupaten_kota": "Kapuas Hulu",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.07",
+    "kabupaten_kota": "Bengkayang",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.08",
+    "kabupaten_kota": "Landak",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.09",
+    "kabupaten_kota": "Sekadau",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.10",
+    "kabupaten_kota": "Melawi",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.11",
+    "kabupaten_kota": "Kayong Utara",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.12",
+    "kabupaten_kota": "Kubu Raya",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.71",
+    "kabupaten_kota": "Pontianak",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "61.72",
+    "kabupaten_kota": "Singkawang",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "kode_wilayah": "62.01",
+    "kabupaten_kota": "Kotawaringin Barat",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.02",
+    "kabupaten_kota": "Kotawaringin Timur",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.03",
+    "kabupaten_kota": "Kapuas",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.04",
+    "kabupaten_kota": "Barito Selatan",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.05",
+    "kabupaten_kota": "Barito Utara",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.06",
+    "kabupaten_kota": "Katingan",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.07",
+    "kabupaten_kota": "Seruyan",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.08",
+    "kabupaten_kota": "Sukamara",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.09",
+    "kabupaten_kota": "Lamandau",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.10",
+    "kabupaten_kota": "Gunung Mas",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.11",
+    "kabupaten_kota": "Pulang Pisau",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.12",
+    "kabupaten_kota": "Murung Raya",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.13",
+    "kabupaten_kota": "Barito Timur",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "62.71",
+    "kabupaten_kota": "Palangkaraya",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "kode_wilayah": "63.01",
+    "kabupaten_kota": "Tanah Laut",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.02",
+    "kabupaten_kota": "Kotabaru",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.04",
+    "kabupaten_kota": "Barito Kuala",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.05",
+    "kabupaten_kota": "Tapin",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.06",
+    "kabupaten_kota": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.07",
+    "kabupaten_kota": "Hulu Sungai Tengah",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.08",
+    "kabupaten_kota": "Hulu Sungai Utara",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.09",
+    "kabupaten_kota": "Tabalong",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.10",
+    "kabupaten_kota": "Tanah Bumbu",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.11",
+    "kabupaten_kota": "Balangan",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.71",
+    "kabupaten_kota": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "63.72",
+    "kabupaten_kota": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "kode_wilayah": "64.01",
+    "kabupaten_kota": "Paser",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.02",
+    "kabupaten_kota": "Kutai Kartanegara",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.03",
+    "kabupaten_kota": "Berau",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.07",
+    "kabupaten_kota": "Kutai Barat",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.08",
+    "kabupaten_kota": "Kutai Timur",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.09",
+    "kabupaten_kota": "Penajam Paser Utara",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.11",
+    "kabupaten_kota": "Mahakam Ulu",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.71",
+    "kabupaten_kota": "Balikpapan",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.72",
+    "kabupaten_kota": "Samarinda",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "64.74",
+    "kabupaten_kota": "Bontang",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "kode_wilayah": "65.01",
+    "kabupaten_kota": "Bulungan",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "kode_wilayah": "65.02",
+    "kabupaten_kota": "Malinau",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "kode_wilayah": "65.03",
+    "kabupaten_kota": "Nunukan",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "kode_wilayah": "65.04",
+    "kabupaten_kota": "Tana Tidung",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "kode_wilayah": "65.71",
+    "kabupaten_kota": "Tarakan",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "kode_wilayah": "71.01",
+    "kabupaten_kota": "Bolaang Mongondow",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.02",
+    "kabupaten_kota": "Minahasa",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.03",
+    "kabupaten_kota": "Kepulauan Sangihe",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.04",
+    "kabupaten_kota": "Kepulauan Talaud",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.05",
+    "kabupaten_kota": "Minahasa Selatan",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.06",
+    "kabupaten_kota": "Minahasa Utara",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.07",
+    "kabupaten_kota": "Minahasa Tenggara",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.08",
+    "kabupaten_kota": "Bolaang Mongondow Utara",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.09",
+    "kabupaten_kota": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.10",
+    "kabupaten_kota": "Bolaang Mongondow Timur",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.11",
+    "kabupaten_kota": "Bolaang Mongondow Selatan",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.71",
+    "kabupaten_kota": "Manado",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.72",
+    "kabupaten_kota": "Bitung",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.73",
+    "kabupaten_kota": "Tomohon",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "71.74",
+    "kabupaten_kota": "Kotamobagu",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "kode_wilayah": "72.01",
+    "kabupaten_kota": "Banggai",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.02",
+    "kabupaten_kota": "Poso",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.03",
+    "kabupaten_kota": "Donggala",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.04",
+    "kabupaten_kota": "Toli Toli",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.05",
+    "kabupaten_kota": "Buol",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.06",
+    "kabupaten_kota": "Morowali",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.07",
+    "kabupaten_kota": "Banggai Kepulauan",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.08",
+    "kabupaten_kota": "Parigi Moutong",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.09",
+    "kabupaten_kota": "Tojo Una Una",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.10",
+    "kabupaten_kota": "Sigi",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.11",
+    "kabupaten_kota": "Banggai Laut",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.12",
+    "kabupaten_kota": "Morowali Utara",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "72.71",
+    "kabupaten_kota": "Palu",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "kode_wilayah": "73.01",
+    "kabupaten_kota": "Kepulauan Selayar",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.02",
+    "kabupaten_kota": "Bulukumba",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.03",
+    "kabupaten_kota": "Bantaeng",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.04",
+    "kabupaten_kota": "Jeneponto",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.05",
+    "kabupaten_kota": "Takalar",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.06",
+    "kabupaten_kota": "Gowa",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.07",
+    "kabupaten_kota": "Sinjai",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.08",
+    "kabupaten_kota": "Bone",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.09",
+    "kabupaten_kota": "Maros",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.10",
+    "kabupaten_kota": "Pangkajene Kepulauan",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.11",
+    "kabupaten_kota": "Barru",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.12",
+    "kabupaten_kota": "Soppeng",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.13",
+    "kabupaten_kota": "Wajo",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.14",
+    "kabupaten_kota": "Sidenreng Rappang",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.15",
+    "kabupaten_kota": "Pinrang",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.16",
+    "kabupaten_kota": "Enrekang",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.17",
+    "kabupaten_kota": "Luwu",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.18",
+    "kabupaten_kota": "Tana Toraja",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.22",
+    "kabupaten_kota": "Luwu Utara",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.24",
+    "kabupaten_kota": "Luwu Timur",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.26",
+    "kabupaten_kota": "Toraja Utara",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.71",
+    "kabupaten_kota": "Makassar",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.72",
+    "kabupaten_kota": "Pare Pare",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "73.73",
+    "kabupaten_kota": "Palopo",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "kode_wilayah": "74.01",
+    "kabupaten_kota": "Kolaka",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.02",
+    "kabupaten_kota": "Konawe",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.03",
+    "kabupaten_kota": "Muna",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.04",
+    "kabupaten_kota": "Buton",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.05",
+    "kabupaten_kota": "Konawe Selatan",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.06",
+    "kabupaten_kota": "Bombana",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.07",
+    "kabupaten_kota": "Wakatobi",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.08",
+    "kabupaten_kota": "Kolaka Utara",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.09",
+    "kabupaten_kota": "Konawe Utara",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.10",
+    "kabupaten_kota": "Buton Utara",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.11",
+    "kabupaten_kota": "Kolaka Timur",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.12",
+    "kabupaten_kota": "Konawe Kepulauan",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.13",
+    "kabupaten_kota": "Muna Barat",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.14",
+    "kabupaten_kota": "Buton Tengah",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.15",
+    "kabupaten_kota": "Buton Selatan",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.71",
+    "kabupaten_kota": "Kendari",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "74.72",
+    "kabupaten_kota": "Bau Bau",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "kode_wilayah": "75.01",
+    "kabupaten_kota": "Gorontalo",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "kode_wilayah": "75.02",
+    "kabupaten_kota": "Boalemo",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "kode_wilayah": "75.03",
+    "kabupaten_kota": "Bone Bolango",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "kode_wilayah": "75.04",
+    "kabupaten_kota": "Pahuwato",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "kode_wilayah": "75.05",
+    "kabupaten_kota": "Gorontalo Utara",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "kode_wilayah": "76.01",
+    "kabupaten_kota": "Pasangkayu (Mamuju Utara)",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "kode_wilayah": "76.02",
+    "kabupaten_kota": "Mamuju",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "kode_wilayah": "76.03",
+    "kabupaten_kota": "Mamasa",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "kode_wilayah": "76.04",
+    "kabupaten_kota": "Polewali Mandar",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "kode_wilayah": "76.05",
+    "kabupaten_kota": "Majene",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "kode_wilayah": "76.06",
+    "kabupaten_kota": "Mamuju Tengah",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "kode_wilayah": "81.01",
+    "kabupaten_kota": "Maluku Tengah",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.02",
+    "kabupaten_kota": "Maluku Tenggara",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.03",
+    "kabupaten_kota": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.04",
+    "kabupaten_kota": "Buru",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.05",
+    "kabupaten_kota": "Seram Bagian Timur",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.06",
+    "kabupaten_kota": "Seram Bagian Barat",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.07",
+    "kabupaten_kota": "Kepulauan Aru",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.08",
+    "kabupaten_kota": "Maluku Barat Daya",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.09",
+    "kabupaten_kota": "Buru Selatan",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.71",
+    "kabupaten_kota": "Ambon",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "81.72",
+    "kabupaten_kota": "Tual",
+    "provinsi": "Maluku"
+  },
+  {
+    "kode_wilayah": "82.01",
+    "kabupaten_kota": "Halmahera Barat",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.02",
+    "kabupaten_kota": "Halmahera Tengah",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.03",
+    "kabupaten_kota": "Halmahera Utara",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.04",
+    "kabupaten_kota": "Halmahera Selatan",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.05",
+    "kabupaten_kota": "Kepulauan Sula",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.06",
+    "kabupaten_kota": "Halmahera Timur",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.07",
+    "kabupaten_kota": "Pulau Morotai",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.08",
+    "kabupaten_kota": "Pulau Taliabu",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.71",
+    "kabupaten_kota": "Ternate",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "82.72",
+    "kabupaten_kota": "Tidore Kepulauan",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "kode_wilayah": "91.03",
+    "kabupaten_kota": "Jayapura",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.05",
+    "kabupaten_kota": "Kepulauan Yapen",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.06",
+    "kabupaten_kota": "Biak Numfor",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.10",
+    "kabupaten_kota": "Sarmi",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.11",
+    "kabupaten_kota": "Keerom",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.15",
+    "kabupaten_kota": "Waropen",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.19",
+    "kabupaten_kota": "Supiori",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "91.20",
+    "kabupaten_kota": "Mamberamo Raya",
+    "provinsi": "Papua"
+  },
+  {
+    "kode_wilayah": "92.01",
+    "kabupaten_kota": "Sorong",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "kode_wilayah": "92.02",
+    "kabupaten_kota": "Manokwari",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "92.03",
+    "kabupaten_kota": "Fak Fak",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "92.04",
+    "kabupaten_kota": "Sorong Selatan",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "kode_wilayah": "92.05",
+    "kabupaten_kota": "Raja Ampat",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "kode_wilayah": "92.06",
+    "kabupaten_kota": "Teluk Bintuni",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "92.07",
+    "kabupaten_kota": "Teluk Wondama",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "92.08",
+    "kabupaten_kota": "Kaimana",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "92.09",
+    "kabupaten_kota": "Tambrauw",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "kode_wilayah": "92.10",
+    "kabupaten_kota": "Maybrat",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "kode_wilayah": "92.11",
+    "kabupaten_kota": "Manokwari Selatan",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "92.12",
+    "kabupaten_kota": "Pegunungan Arfak",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "kode_wilayah": "93.01",
+    "kabupaten_kota": "Merauke",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "kode_wilayah": "93.02",
+    "kabupaten_kota": "Boven Digoel",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "kode_wilayah": "93.03",
+    "kabupaten_kota": "Mappi",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "kode_wilayah": "93.04",
+    "kabupaten_kota": "Asmat",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "kode_wilayah": "94.01",
+    "kabupaten_kota": "Nabire",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.02",
+    "kabupaten_kota": "Puncak Jaya",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.03",
+    "kabupaten_kota": "Paniai",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.04",
+    "kabupaten_kota": "Mimika",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.05",
+    "kabupaten_kota": "Puncak",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.06",
+    "kabupaten_kota": "Dogiyai",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.07",
+    "kabupaten_kota": "Intan Jaya",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "94.08",
+    "kabupaten_kota": "Deiyai",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "kode_wilayah": "95.01",
+    "kabupaten_kota": "Jayawijaya",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.02",
+    "kabupaten_kota": "Pegunungan Bintang",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.03",
+    "kabupaten_kota": "Yahukimo",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.04",
+    "kabupaten_kota": "Tolikara",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.05",
+    "kabupaten_kota": "Mamberamo Tengah",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.06",
+    "kabupaten_kota": "Yalimo",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.07",
+    "kabupaten_kota": "Lanny Jaya",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "kode_wilayah": "95.08",
+    "kabupaten_kota": "Nduga",
+    "provinsi": "Papua Pegunungan"
+  }
+]
